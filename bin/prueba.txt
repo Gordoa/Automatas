@@ -1,0 +1,21 @@
+public class alumno {
+	public string nombre="Carlos Gordoa";
+	private int edad=22;
+	public int calificacion=10;
+	public string carrera= "Sistemas";
+	public string carrera= "industrial";
+	public boolean faliz=false;
+	public int numero=14170908;
+	public string deseo="pasar con 100";
+	public string deseo="i wanna be happy";
+	if(10>numero){
+	aprovar=10;
+	private boolean aprobado=11;
+	}
+	while(10>2){
+		if (1>0.5){
+		}else{
+		}
+	}
+	public int var=15;
+}
